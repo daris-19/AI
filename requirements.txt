@@ -1,0 +1,4 @@
+Flask
+Flask-CROS
+Flask-Limiter
+pytest
